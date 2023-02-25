@@ -7,5 +7,5 @@
 Projeto de conclução de curso na materia PO246 do ita 
 
 
-Referencia: 
-[http://mauricio.resende.info/](Prof. Mauricio Resende)
+Referencia:  
+[http://mauricio.resende.info/] (Prof. Mauricio Resende)
